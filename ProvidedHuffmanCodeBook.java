@@ -1,5 +1,5 @@
 /**
- * @Author Kluver
+ * @Author Daniel Kluver
  * This isn't the most efficient way to store a huffman codebook
  * But it's efficient enough. Even accounting for the size of
  * this file, our ebooks are MUCH shorter.
